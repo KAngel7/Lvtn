@@ -1,0 +1,27 @@
+Time: 12/09/2016 7:54:59 CH
+Input file: C:/Users/Windows 10 TIMT/Desktop/Runoffs/runoff_4000_DucXuyen.txt
+Input file length: 4000
+New ANN: 6-6-1
+Training BP LR=0,1, MM=0,1 R=1.0E-5.... 
+Train finished in: 3seconds
+BP train result: 
+BP Epochs: 101
+BP MAE: 0,105800773223567
+
+BP test result: 
+MAE: 0,1529603022744
+MAPE: 97,2274314907024%
+SSE: 16,8376818253623
+MSE: 0,0420942045634059
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 12seconds
+SA train result: 
+SA MAE: 0,0833368992882189
+SA test result: 
+MAE: 0,165539416803888
+MAPE: 111,773785916055%
+SSE: 23,3418180441832
+MSE: 0,0583545451104581
+
+

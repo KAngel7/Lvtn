@@ -1,0 +1,81 @@
+Time: 30/08/2016 9:08:02 SA
+Input file: C:/Users/Windows 10 TIMT/Desktop/runoff_204_points_PhuocHoa.txt
+Input file length: 204
+New ANN: 3-3-1
+Training BP LR=0.5, MM=0.1 R=1.0E-5.... 
+Train finished at: 30/08/2016 9:08:02 SA
+BP train result: 
+BP Epochs: 360
+BP MAE: 0,0634393517587728
+
+BP test result: 
+MAE: 94,4990216106711
+MAPE: 59,2825859107902%
+SSE: 914993,271704315
+MSE: 22316,9090659589
+
+Training SA T1=9000 T2=10 N_in=20 N_out=20.... 
+Train finished at: 30/08/2016 9:08:02 SA
+SA train result: 
+SA MAE: 0,0597259807821662
+SA test result: 
+MAE: 87,603162176178
+MAPE: 50,4118483862098%
+SSE: 818104,36148369
+MSE: 19953,7649142363
+
+
+Time: 30/08/2016 9:08:03 SA
+Input file: C:/Users/Windows 10 TIMT/Desktop/runoff_204_points_PhuocLong.txt
+Input file length: 204
+New ANN: 3-3-1
+Training BP LR=0.5, MM=0.1 R=1.0E-5.... 
+Train finished at: 30/08/2016 9:08:03 SA
+BP train result: 
+BP Epochs: 641
+BP MAE: 0,0646473471328371
+
+BP test result: 
+MAE: 39,06618466752
+MAPE: 73,3498774372877%
+SSE: 178888,92306784
+MSE: 4363,14446506926
+
+Training SA T1=9000 T2=10 N_in=20 N_out=20.... 
+Train finished at: 30/08/2016 9:08:03 SA
+SA train result: 
+SA MAE: 0,0588552465785685
+SA test result: 
+MAE: 35,6700947454431
+MAPE: 50,7606663023283%
+SSE: 164530,571102864
+MSE: 4012,94075860644
+
+
+Time: 30/08/2016 9:08:03 SA
+Input file: C:/Users/Windows 10 TIMT/Desktop/QmaxCHAUDOC.txt
+Input file length: 365
+New ANN: 3-3-1
+Training BP LR=0.5, MM=0.1 R=1.0E-5.... 
+Train finished at: 30/08/2016 9:08:03 SA
+BP train result: 
+BP Epochs: 53
+BP MAE: 0,0715908688512021
+
+BP test result: 
+MAE: 910,925226333543
+MAPE: 7,02024227870595%
+SSE: 91147883,2549337
+MSE: 1248601,14047854
+
+Training SA T1=9000 T2=10 N_in=20 N_out=20.... 
+Train finished at: 30/08/2016 9:08:04 SA
+SA train result: 
+SA MAE: 0,0497694622389535
+SA test result: 
+MAE: 846,588424697116
+MAPE: 6,53907745100816%
+SSE: 81682842,3520568
+MSE: 1118943,04591859
+
+

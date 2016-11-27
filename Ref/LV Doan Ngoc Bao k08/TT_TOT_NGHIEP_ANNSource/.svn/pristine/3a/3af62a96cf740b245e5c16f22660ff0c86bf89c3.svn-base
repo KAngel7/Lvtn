@@ -1,0 +1,109 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+using System.Windows.Forms;
+
+namespace NeuronNetwork
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public Network network;
+        public MainWindow()
+        {
+            InitializeComponent();
+            network = null;
+            this.tabTraining.IsEnabled = false;
+            this.tabTesting.IsEnabled = false;
+            this.tabForecasting.IsEnabled = false;
+        }
+
+        /*
+         * Function to create a network when click on New Network button
+         * Author: DataMining-Research08
+         */
+        private void new_network_Click(object sender, RoutedEventArgs e)
+        {
+            string nInputNodes = this.nInputNodes.Text;
+            string nHiddenNodes = this.nHiddenNodes.Text;
+            string nOutputNodes = this.nOutputNodes.Text;
+            if (nInputNodes == "" || nHiddenNodes == "" || nOutputNodes == "")
+            {
+                System.Windows.MessageBox.Show("Please insert the number of Input Nodes, Hidden Nodes, Output Nodes", null, MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            else {
+                network = new Network(Int32.Parse(nInputNodes),Int32.Parse(nHiddenNodes),Int32.Parse(nOutputNodes));
+                System.Windows.MessageBox.Show("NetWork configuration successfull, You can train it");
+                this.tabTraining.IsEnabled = true;
+                this.tabTraining.Focus();
+            }
+            
+        }
+
+        /*
+         * Function to choose data file
+         * Author: DataMining-Research08
+         */
+        private void browse_file_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog file = new OpenFileDialog();
+            DialogResult result = file.ShowDialog();
+            string dataFile = "";
+            if (result == System.Windows.Forms.DialogResult.OK) {
+                dataFile = file.FileName;
+            }
+            this.DatatextBox.Text = dataFile;
+        }
+
+        /*
+         * Funtion which is called when click on button Train
+         * Author: DataMining-Research08
+         * */
+        private void train_Click(object sender, RoutedEventArgs e)
+        {
+            if (this.DatatextBox.Text == null || this.DatatextBox.Text.Equals(""))
+            {
+                System.Windows.MessageBox.Show("Please choose data file before training", null, MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            else {
+                List<string> sample = new List<string>();
+                System.IO.StreamReader file;
+                string line = null;
+                int counter = 0;
+                try
+                {
+                    file = new System.IO.StreamReader(this.DatatextBox.Text);
+                    while ((line = file.ReadLine()) != null)
+                    {
+                        sample.Add(line);
+                        counter++;
+                    }
+                }
+                catch
+                {
+                    System.Windows.MessageBox.Show("File does not found", null, MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+                finally {
+                }
+                if (this.radioBackPro.IsChecked == true) {
+                    network.Bp_Train(sample);
+                }
+                else if (this.radioRPROP.IsChecked == true) {
+                    network.Rprop_Train(sample);
+                }
+            }
+        }
+    }
+}

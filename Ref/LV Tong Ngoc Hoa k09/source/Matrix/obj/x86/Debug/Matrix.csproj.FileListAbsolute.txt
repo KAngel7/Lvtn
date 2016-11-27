@@ -1,0 +1,5 @@
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\Matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\Matrix\bin\Debug\Matrix.exe
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\Matrix\bin\Debug\Matrix.pdb
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\Matrix\obj\x86\Debug\Matrix.exe
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\Matrix\obj\x86\Debug\Matrix.pdb

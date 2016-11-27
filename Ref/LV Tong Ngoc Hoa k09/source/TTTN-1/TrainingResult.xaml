@@ -1,0 +1,18 @@
+﻿<Window x:Class="TTTN_1.TrainingResult"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d3="http://research.microsoft.com/DynamicDataDisplay/1.0"
+        Title="Training Result" Height="510" Width="618" Loaded="Window_Loaded"
+        Icon="{x:Static d3:D3IconHelper.DynamicDataDisplayIcon}" Left="100" Top="100">
+    <Grid>
+        <d3:ChartPlotter Name="plotter" Margin="12,12,21,135">
+            <d3:VerticalAxisTitle FontFamily="Georgia" Content="MAE" />
+            <d3:HorizontalAxisTitle FontFamily="Georgia" Content="Epoch"  />
+        </d3:ChartPlotter>
+        <GroupBox Header="Epoche and Error" Margin="12,0,21,12" Name="groupBox1" Height="118" VerticalAlignment="Bottom">
+            <Grid>
+                <TextBox Name="result_console" Text="" />
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

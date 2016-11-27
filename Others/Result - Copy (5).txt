@@ -1,0 +1,27 @@
+Time: 12/09/2016 7:52:28 CH
+Input file: C:/Users/Windows 10 TIMT/Desktop/Runoffs/runoff_4000_Cau14.txt
+Input file length: 4000
+New ANN: 6-6-1
+Training BP LR=0,1, MM=0,1 R=1.0E-5.... 
+Train finished in: 4seconds
+BP train result: 
+BP Epochs: 162
+BP MAE: 0,0417560191681367
+
+BP test result: 
+MAE: 0,0445898837662065
+MAPE: 47,6387443900192%
+SSE: 2,49029439681499
+MSE: 0,00622573599203748
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 13seconds
+SA train result: 
+SA MAE: 0,0346125312770938
+SA test result: 
+MAE: 0,0415477084248754
+MAPE: 44,5803843982221%
+SSE: 2,93640770108364
+MSE: 0,00734101925270911
+
+

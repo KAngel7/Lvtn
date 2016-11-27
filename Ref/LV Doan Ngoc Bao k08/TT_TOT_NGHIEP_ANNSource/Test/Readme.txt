@@ -1,0 +1,1 @@
+This folder use to store the result of test with data from Dr. Tuan Anh

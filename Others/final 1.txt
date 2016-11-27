@@ -1,0 +1,861 @@
+Time: 12/09/2016 8:12:08 CH
+Input file: C:/Users/Windows 10 TIMT/Desktop/Runoffs/Qmax_365_ChauDoc.txt
+Input file length: 365
+New ANN: 6-6-1
+Training BP LR=0,1, MM=0,1 R=1.0E-5.... 
+Train finished in: 0seconds
+BP train result: 
+BP Epochs: 312
+BP MAE: 0,0816802748761236
+
+BP test result: 
+MAE: 0,0572556489133984
+MAPE: 7,68726067327732%
+SSE: 0,182858139827841
+MSE: 0,00494211188723895
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 1seconds
+SA train result: 
+SA MAE: 0,0505893243732395
+SA test result: 
+MAE: 0,0557318602002225
+MAPE: 7,25911974342979%
+SSE: 0,189307377248754
+MSE: 0,00511641560131768
+
+
+New ANN: 6-6-1
+Training BP LR=0,2, MM=0,2 R=1.0E-5.... 
+Train finished in: 3seconds
+BP train result: 
+BP Epochs: 1227
+BP MAE: 0,0910070630217045
+
+BP test result: 
+MAE: 0,0551619948472476
+MAPE: 7,57072865350094%
+SSE: 0,179620557716551
+MSE: 0,00485460966801491
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 1seconds
+SA train result: 
+SA MAE: 0,0481981560601649
+SA test result: 
+MAE: 0,0525083268846354
+MAPE: 6,89950730561132%
+SSE: 0,185893408353119
+MSE: 0,00502414617170593
+
+
+New ANN: 6-6-1
+Training BP LR=0,01, MM=0,3 R=1.0E-5.... 
+Train finished in: 2seconds
+BP train result: 
+BP Epochs: 1023
+BP MAE: 0,0574786011383175
+
+BP test result: 
+MAE: 0,0589703088735822
+MAPE: 7,57883061824755%
+SSE: 0,220626080338593
+MSE: 0,00596286703617818
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 1seconds
+SA train result: 
+SA MAE: 0,0508645439113629
+SA test result: 
+MAE: 0,0540532218958052
+MAPE: 7,08692037268893%
+SSE: 0,189298872366298
+MSE: 0,00511618573962968
+
+
+New ANN: 6-6-1
+Training BP LR=0,3, MM=0,25 R=1.0E-5.... 
+Train finished in: 7seconds
+BP train result: 
+BP Epochs: 2455
+BP MAE: 0,0948313334937623
+
+BP test result: 
+MAE: 0,0530333190608912
+MAPE: 7,32704665741134%
+SSE: 0,183194197927737
+MSE: 0,00495119453858748
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 1seconds
+SA train result: 
+SA MAE: 0,0460502256218828
+SA test result: 
+MAE: 0,0490099579449631
+MAPE: 6,53506861375427%
+SSE: 0,203570319252043
+MSE: 0,00550190052032549
+
+
+New ANN: 6-6-1
+Training BP LR=0,05, MM=0,15 R=1.0E-5.... 
+Train finished in: 1seconds
+BP train result: 
+BP Epochs: 410
+BP MAE: 0,0604039444163437
+
+BP test result: 
+MAE: 0,0561671430238368
+MAPE: 7,36206646965166%
+SSE: 0,188490057151959
+MSE: 0,00509432586897186
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 1seconds
+SA train result: 
+SA MAE: 0,050255314394405
+SA test result: 
+MAE: 0,0545520997656134
+MAPE: 7,12084778893907%
+SSE: 0,187458218992111
+MSE: 0,00506643835113814
+
+
+Time: 12/09/2016 8:12:31 CH
+Input file: C:/Users/Windows 10 TIMT/Desktop/Runoffs/runoff_204_PhuocHoa.txt
+Input file length: 204
+New ANN: 6-6-1
+Training BP LR=0,1, MM=0,1 R=1.0E-5.... 
+Train finished in: 0seconds
+BP train result: 
+BP Epochs: 598
+BP MAE: 0,0685107636794275
+
+BP test result: 
+MAE: 0,0543962037718678
+MAPE: 28,668771414368%
+SSE: 0,223452390408949
+MSE: 0,0106405900194738
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,0564131583848472
+SA test result: 
+MAE: 0,0708464755805559
+MAPE: 25,0606900777069%
+SSE: 0,332861287647981
+MSE: 0,0158505375070467
+
+
+New ANN: 6-6-1
+Training BP LR=0,2, MM=0,2 R=1.0E-5.... 
+Train finished in: 0seconds
+BP train result: 
+BP Epochs: 146
+BP MAE: 0,0799097748695421
+
+BP test result: 
+MAE: 0,0662651817832909
+MAPE: 39,8196706234691%
+SSE: 0,234986465290955
+MSE: 0,0111898316805217
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,0593254712639576
+SA test result: 
+MAE: 0,0716278806183282
+MAPE: 24,0095630572051%
+SSE: 0,308854785272457
+MSE: 0,0147073707272598
+
+
+New ANN: 6-6-1
+Training BP LR=0,01, MM=0,3 R=1.0E-5.... 
+Train finished in: 1seconds
+BP train result: 
+BP Epochs: 1008
+BP MAE: 0,0753205262498982
+
+BP test result: 
+MAE: 0,0778655005841329
+MAPE: 45,3605243242753%
+SSE: 0,330910560179517
+MSE: 0,0157576457228341
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,0579387830550792
+SA test result: 
+MAE: 0,0676152317905332
+MAPE: 28,5478137891916%
+SSE: 0,320979354019355
+MSE: 0,0152847311437788
+
+
+New ANN: 6-6-1
+Training BP LR=0,3, MM=0,25 R=1.0E-5.... 
+Train finished in: 0seconds
+BP train result: 
+BP Epochs: 101
+BP MAE: 0,0865271605802494
+
+BP test result: 
+MAE: 0,0705015549954553
+MAPE: 44,8416756931097%
+SSE: 0,229215145601367
+MSE: 0,0109150069333984
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,0556923329663788
+SA test result: 
+MAE: 0,0675484981652493
+MAPE: 25,2142799532825%
+SSE: 0,294341644390513
+MSE: 0,0140162687805006
+
+
+New ANN: 6-6-1
+Training BP LR=0,05, MM=0,15 R=1.0E-5.... 
+Train finished in: 1seconds
+BP train result: 
+BP Epochs: 1208
+BP MAE: 0,0665278613256687
+
+BP test result: 
+MAE: 0,0584474219601654
+MAPE: 29,7770826643206%
+SSE: 0,242581275521904
+MSE: 0,0115514893105668
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,0572064899670109
+SA test result: 
+MAE: 0,0704133856228756
+MAPE: 25,4296219310607%
+SSE: 0,318492106932751
+MSE: 0,0151662908063215
+
+
+Time: 12/09/2016 8:12:39 CH
+Input file: C:/Users/Windows 10 TIMT/Desktop/Runoffs/runoff_204_PhuocLong.txt
+Input file length: 204
+New ANN: 6-6-1
+Training BP LR=0,1, MM=0,1 R=1.0E-5.... 
+Train finished in: 0seconds
+BP train result: 
+BP Epochs: 550
+BP MAE: 0,0783545115625906
+
+BP test result: 
+MAE: 0,0691430235513957
+MAPE: 64,2488892391957%
+SSE: 0,187642133266931
+MSE: 0,00893533967937768
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,0660761794018774
+SA test result: 
+MAE: 0,0531203833148137
+MAPE: 41,9268397316662%
+SSE: 0,130986663183051
+MSE: 0,00623746015157385
+
+
+New ANN: 6-6-1
+Training BP LR=0,2, MM=0,2 R=1.0E-5.... 
+Train finished in: 1seconds
+BP train result: 
+BP Epochs: 671
+BP MAE: 0,0731050999843474
+
+BP test result: 
+MAE: 0,0595474173036266
+MAPE: 54,8885052480421%
+SSE: 0,141574700757389
+MSE: 0,00674165241701851
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,0594302062286852
+SA test result: 
+MAE: 0,0488338072463814
+MAPE: 36,8774819341633%
+SSE: 0,1058643189574
+MSE: 0,00504115804559047
+
+
+New ANN: 6-6-1
+Training BP LR=0,01, MM=0,3 R=1.0E-5.... 
+Train finished in: 1seconds
+BP train result: 
+BP Epochs: 774
+BP MAE: 0,0846023884521857
+
+BP test result: 
+MAE: 0,0795997940740637
+MAPE: 92,9071229662307%
+SSE: 0,265356668665576
+MSE: 0,0126360318412179
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,0612053816938814
+SA test result: 
+MAE: 0,0513865976250685
+MAPE: 32,9391352899753%
+SSE: 0,159218341974338
+MSE: 0,00758182580830181
+
+
+New ANN: 6-6-1
+Training BP LR=0,3, MM=0,25 R=1.0E-5.... 
+Train finished in: 0seconds
+BP train result: 
+BP Epochs: 329
+BP MAE: 0,0762336375563693
+
+BP test result: 
+MAE: 0,0642998346289452
+MAPE: 59,6506171533702%
+SSE: 0,166565943326753
+MSE: 0,00793171158698824
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,0593286652005506
+SA test result: 
+MAE: 0,0491730965211883
+MAPE: 34,1137027912319%
+SSE: 0,124772921237834
+MSE: 0,00594156767799208
+
+
+New ANN: 6-6-1
+Training BP LR=0,05, MM=0,15 R=1.0E-5.... 
+Train finished in: 1seconds
+BP train result: 
+BP Epochs: 913
+BP MAE: 0,0701661665372379
+
+BP test result: 
+MAE: 0,0596093605800578
+MAPE: 53,6381588628102%
+SSE: 0,154848860465819
+MSE: 0,00737375526027711
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,0569415972676023
+SA test result: 
+MAE: 0,051345589882864
+MAPE: 31,2143051872288%
+SSE: 0,133505075123111
+MSE: 0,00635738452967193
+
+
+Time: 12/09/2016 8:12:48 CH
+Input file: C:/Users/Windows 10 TIMT/Desktop/Runoffs/runoff_239_ChiemHoa.txt
+Input file length: 239
+New ANN: 6-6-1
+Training BP LR=0,1, MM=0,1 R=1.0E-5.... 
+Train finished in: 0seconds
+BP train result: 
+BP Epochs: 294
+BP MAE: 0,119796609213493
+
+BP test result: 
+MAE: 0,122577489053229
+MAPE: 128,02367343264%
+SSE: 0,464338644430112
+MSE: 0,0193474435179213
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,110492279281394
+SA test result: 
+MAE: 0,101339303994211
+MAPE: 75,9393713693784%
+SSE: 0,420771321269573
+MSE: 0,0175321383862322
+
+
+New ANN: 6-6-1
+Training BP LR=0,2, MM=0,2 R=1.0E-5.... 
+Train finished in: 0seconds
+BP train result: 
+BP Epochs: 228
+BP MAE: 0,117989906662898
+
+BP test result: 
+MAE: 0,120327053921039
+MAPE: 120,633603507513%
+SSE: 0,450900810649245
+MSE: 0,0187875337770519
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,108438687951725
+SA test result: 
+MAE: 0,0925051863080424
+MAPE: 66,6161887086294%
+SSE: 0,361643848608129
+MSE: 0,0150684936920054
+
+
+New ANN: 6-6-1
+Training BP LR=0,01, MM=0,3 R=1.0E-5.... 
+Train finished in: 0seconds
+BP train result: 
+BP Epochs: 101
+BP MAE: 0,143440970278219
+
+BP test result: 
+MAE: 0,137769982366297
+MAPE: 156,33537019497%
+SSE: 0,574736423819715
+MSE: 0,0239473509924881
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,110942306625629
+SA test result: 
+MAE: 0,106274278830551
+MAPE: 85,1255410054988%
+SSE: 0,423605858793196
+MSE: 0,0176502441163832
+
+
+New ANN: 6-6-1
+Training BP LR=0,3, MM=0,25 R=1.0E-5.... 
+Train finished in: 0seconds
+BP train result: 
+BP Epochs: 241
+BP MAE: 0,116277355288451
+
+BP test result: 
+MAE: 0,11766795229118
+MAPE: 115,186993888393%
+SSE: 0,441516158113722
+MSE: 0,0183965065880717
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,108258073011292
+SA test result: 
+MAE: 0,0939755005430768
+MAPE: 68,023391994738%
+SSE: 0,36054001008055
+MSE: 0,0150225004200229
+
+
+New ANN: 6-6-1
+Training BP LR=0,05, MM=0,15 R=1.0E-5.... 
+Train finished in: 0seconds
+BP train result: 
+BP Epochs: 427
+BP MAE: 0,12062022970111
+
+BP test result: 
+MAE: 0,123496936797545
+MAPE: 132,312677911213%
+SSE: 0,473571401288976
+MSE: 0,019732141720374
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 0seconds
+SA train result: 
+SA MAE: 0,110366410946547
+SA test result: 
+MAE: 0,100418195438112
+MAPE: 75,2359451693386%
+SSE: 0,411259603669369
+MSE: 0,017135816819557
+
+
+Time: 12/09/2016 8:12:54 CH
+Input file: C:/Users/Windows 10 TIMT/Desktop/Runoffs/runoff_4000_BuonHo.txt
+Input file length: 4000
+New ANN: 10-10-1
+Training BP LR=0,1, MM=0,1 R=1.0E-5.... 
+Train finished in: 8seconds
+BP train result: 
+BP Epochs: 111
+BP MAE: 0,0404088529417898
+
+BP test result: 
+MAE: 0,043185120162143
+MAPE: 46,9871976692785%
+SSE: 2,07706784864681
+MSE: 0,00519266962161703
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 30seconds
+SA train result: 
+SA MAE: 0,0334161039786097
+SA test result: 
+MAE: 0,0406872097885471
+MAPE: 39,5121594214017%
+SSE: 2,2859521209951
+MSE: 0,00571488030248774
+
+
+New ANN: 10-10-1
+Training BP LR=0,2, MM=0,2 R=1.0E-5.... 
+Train finished in: 7seconds
+BP train result: 
+BP Epochs: 101
+BP MAE: 0,0481270191917779
+
+BP test result: 
+MAE: 0,0529094365032602
+MAPE: 60,4739882185855%
+SSE: 2,39524976117207
+MSE: 0,00598812440293018
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 30seconds
+SA train result: 
+SA MAE: 0,0329268498308526
+SA test result: 
+MAE: 0,0412382040927591
+MAPE: 40,5900661105389%
+SSE: 2,26251637657464
+MSE: 0,00565629094143661
+
+
+New ANN: 10-10-1
+Training BP LR=0,01, MM=0,3 R=1.0E-5.... 
+Train finished in: 33seconds
+BP train result: 
+BP Epochs: 456
+BP MAE: 0,0397057647550173
+
+BP test result: 
+MAE: 0,0421155504357908
+MAPE: 43,5132259020831%
+SSE: 1,99395850532605
+MSE: 0,00498489626331512
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 31seconds
+SA train result: 
+SA MAE: 0,0342360777461278
+SA test result: 
+MAE: 0,0407976266647157
+MAPE: 39,9309631721757%
+SSE: 2,19176843469335
+MSE: 0,00547942108673338
+
+
+New ANN: 10-10-1
+Training BP LR=0,3, MM=0,25 R=1.0E-5.... 
+Train finished in: 43seconds
+BP train result: 
+BP Epochs: 469
+BP MAE: 0,0483040848130487
+
+BP test result: 
+MAE: 0,0564112421956914
+MAPE: 64,6863879100626%
+SSE: 2,63292965435848
+MSE: 0,00658232413589619
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 35seconds
+SA train result: 
+SA MAE: 0,0334319226932232
+SA test result: 
+MAE: 0,0429850829014677
+MAPE: 42,7997704901104%
+SSE: 2,3367260231147
+MSE: 0,00584181505778676
+
+
+New ANN: 10-10-1
+Training BP LR=0,05, MM=0,15 R=1.0E-5.... 
+Train finished in: 15seconds
+BP train result: 
+BP Epochs: 153
+BP MAE: 0,03859418666923
+
+BP test result: 
+MAE: 0,0419766780401046
+MAPE: 43,4126052569704%
+SSE: 2,03993862894682
+MSE: 0,00509984657236705
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 30seconds
+SA train result: 
+SA MAE: 0,0335564855019243
+SA test result: 
+MAE: 0,0406626262579844
+MAPE: 39,2824250575218%
+SSE: 2,26193930002057
+MSE: 0,00565484825005143
+
+
+Time: 12/09/2016 8:17:22 CH
+Input file: C:/Users/Windows 10 TIMT/Desktop/Runoffs/runoff_4000_Cau14.txt
+Input file length: 4000
+New ANN: 10-10-1
+Training BP LR=0,1, MM=0,1 R=1.0E-5.... 
+Train finished in: 7seconds
+BP train result: 
+BP Epochs: 101
+BP MAE: 0,0427502516382235
+
+BP test result: 
+MAE: 0,0459780711930318
+MAPE: 50,4224580907555%
+SSE: 2,55220601072659
+MSE: 0,00638051502681648
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 31seconds
+SA train result: 
+SA MAE: 0,0360124602617306
+SA test result: 
+MAE: 0,0420618794519683
+MAPE: 44,5336001418452%
+SSE: 2,8768010452218
+MSE: 0,00719200261305451
+
+
+New ANN: 10-10-1
+Training BP LR=0,2, MM=0,2 R=1.0E-5.... 
+Train finished in: 23seconds
+BP train result: 
+BP Epochs: 333
+BP MAE: 0,0476494310024937
+
+BP test result: 
+MAE: 0,0520280623665573
+MAPE: 59,9855224949946%
+SSE: 2,80301219738662
+MSE: 0,00700753049346656
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 28seconds
+SA train result: 
+SA MAE: 0,0357150328470002
+SA test result: 
+MAE: 0,0426027572545116
+MAPE: 46,089659111373%
+SSE: 3,07346829444405
+MSE: 0,00768367073611013
+
+
+New ANN: 10-10-1
+Training BP LR=0,01, MM=0,3 R=1.0E-5.... 
+Train finished in: 21seconds
+BP train result: 
+BP Epochs: 301
+BP MAE: 0,0428986486427495
+
+BP test result: 
+MAE: 0,0453579588086121
+MAPE: 47,3257923129342%
+SSE: 2,46058186732858
+MSE: 0,00615145466832144
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 28seconds
+SA train result: 
+SA MAE: 0,0375655533657166
+SA test result: 
+MAE: 0,0430547882253175
+MAPE: 44,296619710697%
+SSE: 2,72092027355826
+MSE: 0,00680230068389565
+
+
+New ANN: 10-10-1
+Training BP LR=0,3, MM=0,25 R=1.0E-5.... 
+Train finished in: 34seconds
+BP train result: 
+BP Epochs: 497
+BP MAE: 0,048723001303432
+
+BP test result: 
+MAE: 0,0535161694917805
+MAPE: 61,8723352109924%
+SSE: 2,86812281155804
+MSE: 0,00717030702889511
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 29seconds
+SA train result: 
+SA MAE: 0,0342914917966335
+SA test result: 
+MAE: 0,0409102269524452
+MAPE: 44,1111505109066%
+SSE: 2,89251889360059
+MSE: 0,00723129723400147
+
+
+New ANN: 10-10-1
+Training BP LR=0,05, MM=0,15 R=1.0E-5.... 
+Train finished in: 12seconds
+BP train result: 
+BP Epochs: 147
+BP MAE: 0,0420433380988307
+
+BP test result: 
+MAE: 0,0445435663894403
+MAPE: 46,9513418655939%
+SSE: 2,47986657956685
+MSE: 0,00619966644891713
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 31seconds
+SA train result: 
+SA MAE: 0,0350607980691701
+SA test result: 
+MAE: 0,0412629389836654
+MAPE: 43,9375912430692%
+SSE: 2,89159540453369
+MSE: 0,00722898851133423
+
+
+Time: 12/09/2016 8:21:31 CH
+Input file: C:/Users/Windows 10 TIMT/Desktop/Runoffs/runoff_4000_DucXuyen.txt
+Input file length: 4000
+New ANN: 10-10-1
+Training BP LR=0,1, MM=0,1 R=1.0E-5.... 
+Train finished in: 7seconds
+BP train result: 
+BP Epochs: 101
+BP MAE: 0,112481751140637
+
+BP test result: 
+MAE: 0,153724287070096
+MAPE: 92,7736965990238%
+SSE: 16,9952206288446
+MSE: 0,0424880515721114
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 38seconds
+SA train result: 
+SA MAE: 0,0855015619559302
+SA test result: 
+MAE: 0,164950219901206
+MAPE: 114,323468826341%
+SSE: 22,7478713205979
+MSE: 0,0568696783014948
+
+
+New ANN: 10-10-1
+Training BP LR=0,2, MM=0,2 R=1.0E-5.... 
+Train finished in: 9seconds
+BP train result: 
+BP Epochs: 126
+BP MAE: 0,1210767510558
+
+BP test result: 
+MAE: 0,158526990777544
+MAPE: 91,0131484290312%
+SSE: 17,7363675106594
+MSE: 0,0443409187766485
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 35seconds
+SA train result: 
+SA MAE: 0,0851814842568642
+SA test result: 
+MAE: 0,16465904708277
+MAPE: 114,24243928855%
+SSE: 22,5885032963498
+MSE: 0,0564712582408746
+
+
+New ANN: 10-10-1
+Training BP LR=0,01, MM=0,3 R=1.0E-5.... 
+Train finished in: 15seconds
+BP train result: 
+BP Epochs: 168
+BP MAE: 0,0988752839164224
+
+BP test result: 
+MAE: 0,152132241895605
+MAPE: 101,879358330274%
+SSE: 16,5659267718711
+MSE: 0,0414148169296778
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 33seconds
+SA train result: 
+SA MAE: 0,0849045206052718
+SA test result: 
+MAE: 0,164530440199429
+MAPE: 109,033189644594%
+SSE: 23,2745009252058
+MSE: 0,0581862523130144
+
+
+New ANN: 10-10-1
+Training BP LR=0,3, MM=0,25 R=1.0E-5.... 
+Train finished in: 7seconds
+BP train result: 
+BP Epochs: 101
+BP MAE: 0,120029116455938
+
+BP test result: 
+MAE: 0,15741447809027
+MAPE: 92,9788543775114%
+SSE: 17,3413674529445
+MSE: 0,0433534186323613
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 32seconds
+SA train result: 
+SA MAE: 0,0850664003622767
+SA test result: 
+MAE: 0,166430847778379
+MAPE: 114,010188062579%
+SSE: 22,6614198876973
+MSE: 0,0566535497192433
+
+
+New ANN: 10-10-1
+Training BP LR=0,05, MM=0,15 R=1.0E-5.... 
+Train finished in: 8seconds
+BP train result: 
+BP Epochs: 101
+BP MAE: 0,103753454373761
+
+BP test result: 
+MAE: 0,152379079692862
+MAPE: 97,5991968490275%
+SSE: 16,7766962892582
+MSE: 0,0419417407231454
+
+Training SA T1=9000 T2=10 N_in=10 N_out=100.... 
+Train finished in: 32seconds
+SA train result: 
+SA MAE: 0,0844838165432505
+SA test result: 
+MAE: 0,165348216025159
+MAPE: 110,164448938972%
+SSE: 23,618097755743
+MSE: 0,0590452443893575
+
+

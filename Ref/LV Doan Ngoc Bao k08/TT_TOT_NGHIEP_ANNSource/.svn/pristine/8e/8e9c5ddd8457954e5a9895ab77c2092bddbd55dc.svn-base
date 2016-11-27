@@ -1,0 +1,86 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace NeuronNetwork
+{
+    public class Network
+    {
+        /**
+         * Network parameter
+         */
+        public int m_iNumInputNodes;
+        public int m_iNumHiddenNodes;
+        public int m_iNumOutputNodes;
+
+        public Perceptron[] m_arInputNodes; //array store all input nodes
+        public Perceptron[] m_arHiddenNodes; //array store all hidden nodes
+        public Perceptron[] m_arOutputNodes; //array store all output nodes
+
+        public double[,] m_arInputHiddenConn; //2-dimensions array store all weight connected between input and hidden nodes
+        public double[,] m_arHiddenOutputConn; //2-dimensions array store all weight connected between hidden and output nodes
+
+        public double[] m_arHiddenBias; //array store all bias of hidden nodes
+        public double[] m_arOutputBias; //array store all bias of output nodes
+
+        /**
+         * Constructor
+         */
+        public Network(int nInputNodes, int nHiddenNodes, int nOutputNodes)
+        {
+            //default parameter
+            int i, j;
+            m_iNumInputNodes = nInputNodes;
+            m_iNumHiddenNodes = nHiddenNodes;
+            m_iNumOutputNodes = nOutputNodes;
+            m_arInputNodes = new Perceptron[m_iNumInputNodes];
+            for (i = 0; i < m_iNumInputNodes; i++) {
+                m_arInputNodes[i] = new Perceptron(ActionvationFunction.SIGMOID_FUNCTION);
+            }
+            m_arHiddenNodes = new Perceptron[m_iNumHiddenNodes];
+            for (i = 0; i < m_iNumHiddenNodes; i++)
+            {
+                m_arHiddenNodes[i] = new Perceptron(ActionvationFunction.SIGMOID_FUNCTION);
+            }
+            m_arOutputNodes = new Perceptron[m_iNumOutputNodes];
+            for (i = 0; i < m_iNumOutputNodes; i++)
+            {
+                m_arOutputNodes[i] = new Perceptron(ActionvationFunction.SIGMOID_FUNCTION);
+            }
+            m_arInputHiddenConn = new double[m_iNumInputNodes, m_iNumHiddenNodes];
+            m_arHiddenOutputConn = new double[m_iNumHiddenNodes, m_iNumOutputNodes];
+            m_arHiddenBias = new double[m_iNumHiddenNodes];
+            m_arOutputBias = new double[m_iNumOutputNodes];
+            double rand = new Random().NextDouble();
+            for (i = 0; i < m_iNumHiddenNodes; i++)   // initialize bias values of Hidden nodes
+                m_arHiddenBias[i] = rand;
+            for (i = 0; i < m_iNumOutputNodes; i++)   // initialize bias values of Output nodes
+                m_arOutputBias[i] = rand;
+            for (i = 0; i < m_iNumInputNodes; i++)    // initialize weight of Input Hidden connection
+            {
+                for (j = 0; j < m_iNumHiddenNodes; j++)
+                    m_arInputHiddenConn[i, j] = rand;
+            }
+            for (i = 0; i < m_iNumHiddenNodes; i++)   // initialize weight of Hidden Output connection
+            {
+                for (j = 0; j < m_iNumOutputNodes; j++)
+                    m_arHiddenOutputConn[i, j] = rand;
+            }
+
+        }
+
+        /**
+         * Network import/export method
+         */
+        static public bool Import(string pathFile)
+        {
+            return false;
+        }
+
+        static public bool Export(string pathFile)
+        {
+            return false;
+        }
+    }
+}

@@ -1,0 +1,80 @@
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\bin\Debug\TTTN-1.exe
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\bin\Debug\TTTN-1.pdb
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\MainWindow.baml
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\MainWindow.g.cs
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\App.g.cs
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN-1_MarkupCompile.cache
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN-1.g.resources
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN_1.Properties.Resources.resources
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN-1.csproj.GenerateResource.Cache
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN-1.exe
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN-1.pdb
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\BP_Congfig.baml
+c:\users\hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\BP_Congfig.g.cs
+C:\Users\Hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TrainingResult.baml
+C:\Users\Hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TrainingResult.g.cs
+C:\Users\Hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\bin\Debug\DynamicDataDisplay.xml
+C:\Users\Hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN-1.csprojResolveAssemblyReference.cache
+C:\Users\Hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TestingResult.baml
+C:\Users\Hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TestingResult.g.cs
+C:\Users\Hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\ForecastResult.baml
+C:\Users\Hoa\documents\visual studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\ForecastResult.g.cs
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN-1.exe
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN-1.pdb
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\bin\Debug\TTTN-1.exe
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\bin\Debug\TTTN-1.pdb
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\bin\Debug\DynamicDataDisplay.dll
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\bin\Debug\DynamicDataDisplay.xml
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\BP_Congfig.baml
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\ForecastResult.baml
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\MainWindow.baml
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TestingResult.baml
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TrainingResult.baml
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\BP_Congfig.g.cs
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\ForecastResult.g.cs
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TestingResult.g.cs
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TrainingResult.g.cs
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\App.g.cs
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN-1_MarkupCompile.cache
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN-1.g.resources
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN_1.Properties.Resources.resources
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\TTTN-1_Content.g.cs
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\bin\Debug\MathNet.Numerics.pdb
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\bin\Debug\MathNet.Numerics.xml
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\Graph.baml
+C:\Users\HoaTong\Documents\Visual Studio 2010\Projects\TTTN-1\TTTN-1\obj\x86\Debug\Graph.g.cs
+D:\source\TTTN-1\obj\x86\Debug\TTTN-1.exe
+D:\source\TTTN-1\obj\x86\Debug\TTTN-1.pdb
+D:\source\TTTN-1\bin\Debug\TTTN-1.exe
+D:\source\TTTN-1\bin\Debug\TTTN-1.pdb
+D:\source\TTTN-1\bin\Debug\DynamicDataDisplay.dll
+D:\source\TTTN-1\bin\Debug\DynamicDataDisplay.xml
+D:\source\TTTN-1\bin\Debug\MathNet.Numerics.pdb
+D:\source\TTTN-1\bin\Debug\MathNet.Numerics.xml
+D:\source\TTTN-1\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+D:\source\TTTN-1\obj\x86\Debug\TTTN-1.csprojResolveAssemblyReference.cache
+D:\source\TTTN-1\obj\x86\Debug\BP_Congfig.baml
+D:\source\TTTN-1\obj\x86\Debug\ForecastResult.baml
+D:\source\TTTN-1\obj\x86\Debug\Graph.baml
+D:\source\TTTN-1\obj\x86\Debug\MainWindow.baml
+D:\source\TTTN-1\obj\x86\Debug\TestingResult.baml
+D:\source\TTTN-1\obj\x86\Debug\TrainingResult.baml
+D:\source\TTTN-1\obj\x86\Debug\BP_Congfig.g.cs
+D:\source\TTTN-1\obj\x86\Debug\ForecastResult.g.cs
+D:\source\TTTN-1\obj\x86\Debug\Graph.g.cs
+D:\source\TTTN-1\obj\x86\Debug\MainWindow.g.cs
+D:\source\TTTN-1\obj\x86\Debug\TestingResult.g.cs
+D:\source\TTTN-1\obj\x86\Debug\TrainingResult.g.cs
+D:\source\TTTN-1\obj\x86\Debug\App.g.cs
+D:\source\TTTN-1\obj\x86\Debug\TTTN-1_Content.g.cs
+D:\source\TTTN-1\obj\x86\Debug\TTTN-1_MarkupCompile.cache
+D:\source\TTTN-1\obj\x86\Debug\TTTN-1.g.resources
+D:\source\TTTN-1\obj\x86\Debug\TTTN_1.Properties.Resources.resources
+D:\source\TTTN-1\obj\x86\Debug\TTTN-1.csproj.GenerateResource.Cache

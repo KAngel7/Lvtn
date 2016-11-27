@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace NeuronNetwork
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public Network network;
+        public MainWindow()
+        {
+            InitializeComponent();
+            network = null;
+            this.tabTraining.IsEnabled = false;
+            this.tabTesting.IsEnabled = false;
+            this.tabForecasting.IsEnabled = false;
+        }
+
+        private void new_network_Click(object sender, RoutedEventArgs e)
+        {
+            string nInputNodes = this.nInputNodes.Text;
+            string nHiddenNodes = this.nHiddenNodes.Text;
+            string nOutputNodes = this.nOutputNodes.Text;
+            if (nInputNodes == "" || nHiddenNodes == "" || nOutputNodes == "")
+            {
+                MessageBox.Show("Please insert the number of Input Nodes, Hidden Nodes, Output Nodes", null, MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            else {
+                network = new Network(Int32.Parse(nInputNodes),Int32.Parse(nHiddenNodes),Int32.Parse(nOutputNodes));
+                MessageBox.Show("NetWork configuration successfull, You can train it");
+                this.tabTraining.IsEnabled = true;
+                this.tabTraining.Focus();
+            }
+            
+        }
+    }
+}

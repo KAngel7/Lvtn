@@ -1,0 +1,27 @@
+Time: 04/09/2016 1:13:50 CH
+Input file: C:/Users/Windows 10 TIMT/Desktop/runoff_204_points_PhuocHoa.txt
+Input file length: 204
+New ANN: 6-6-1
+Training BP LR=0.5, MM=0.1 R=1.0E-5.... 
+Train finished at: 04/09/2016 1:13:54 CH
+BP train result: 
+BP Epochs: 3391
+BP MAE: 0,0535367317631386
+
+BP test result: 
+MAE: 80,7740212595471
+MAPE: 39,3867047927775%
+SSE: 647396,874229685
+MSE: 15790,1676641387
+
+Training SA T1=9000 T2=10 N_in=20 N_out=20.... 
+Train finished at: 04/09/2016 1:13:55 CH
+SA train result: 
+SA MAE: 0,0497929942121111
+SA test result: 
+MAE: 85,6007547250015
+MAPE: 32,8899075363771%
+SSE: 751071,254570756
+MSE: 18318,8110870916
+
+

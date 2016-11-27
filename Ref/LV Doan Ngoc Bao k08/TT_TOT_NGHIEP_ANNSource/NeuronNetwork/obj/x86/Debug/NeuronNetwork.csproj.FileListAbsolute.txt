@@ -1,0 +1,53 @@
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\bin\Debug\NeuronNetwork.exe
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\bin\Debug\NeuronNetwork.pdb
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\MainWindow.baml
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\MainWindow.g.cs
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\App.g.cs
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork_MarkupCompile.cache
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.g.resources
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.PB_Form.resources
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.Properties.Resources.resources
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.Result_Form.resources
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.RPROP_Form.resources
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.Test_Form.resources
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.Train_Result.resources
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.exe
+D:\vy's program\Research\Time Series\ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.pdb
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.exe
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.pdb
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\bin\Debug\NeuronNetwork.exe
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\bin\Debug\NeuronNetwork.pdb
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\MainWindow.baml
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\MainWindow.g.cs
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\App.g.cs
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork_MarkupCompile.cache
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.g.resources
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.PB_Form.resources
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.Properties.Resources.resources
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.Result_Form.resources
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.RPROP_Form.resources
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.Test_Form.resources
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.Train_Result.resources
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vy's program\Research\Time Series\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.exe
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.pdb
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\bin\Debug\NeuronNetwork.exe
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\bin\Debug\NeuronNetwork.pdb
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.csprojResolveAssemblyReference.cache
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\MainWindow.baml
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\MainWindow.g.cs
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\App.g.cs
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork_MarkupCompile.cache
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.g.resources
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.PB_Form.resources
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.Properties.Resources.resources
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.Result_Form.resources
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.RPROP_Form.resources
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.Test_Form.resources
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.Train_Result.resources
+D:\Downloads\Docs\TT_TOT_NGHIEP_ANNSource\NeuronNetwork\obj\x86\Debug\NeuronNetwork.csproj.GenerateResource.Cache
